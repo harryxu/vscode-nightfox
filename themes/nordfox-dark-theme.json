@@ -14,7 +14,7 @@
     "activityBar.activeBackground": "#39404f20",
     "activityBar.activeBorder": "#39404f",
 
-    "badge.background": "#63CDCF",
+    "badge.background": "#81a1c1",
     "badge.foreground": "#232831",
 
     "breadcrumb.activeSelectionForeground": "#cdcecf",
@@ -23,7 +23,7 @@
     "breadcrumb.foreground": "#7e8188",
     "breadcrumbPicker.background": "#2e3440",
 
-    "button.background": "#63CDCF",
+    "button.background": "#81a1c1",
     "button.foreground": "#222244",
     "button.hoverBackground": "#8be9fd",
 
@@ -51,7 +51,7 @@
     "dropdown.border": "#415166",
     "dropdown.foreground": "#CDCECF",
 
-    "editor.background": "#2e3440",
+    "editor.background": "#323C4A",
     "editor.foreground": "#CDCECF",
     "editorLineNumber.foreground": "#7e8188",
     "editorLineNumber.activeForeground": "#ebcb8b",
@@ -60,7 +60,7 @@
     "editor.selectionBackground": "#415166C0",
     "editor.inactiveSelectionBackground": "#41516688",
     "editor.selectionHighlightBackground": "#ebcb8b46",
-    "editor.linkedEditingBackground": "#9D79D6AA",
+    "editor.linkedEditingBackground": "#b48eadAA",
     "editor.wordHighlightBackground": "#415166AA",
     "editor.wordHighlightStrongBackground": "#415166DD",
     "editor.findMatchBackground": "#81B29A44",
@@ -95,7 +95,7 @@
     "editor.snippetFinalTabstopHighlightBorder": "#E0C98900",
 
     "editorBracketMatch.background": "#71839BCC",
-    "editorBracketMatch.border": "#63CDCF00",
+    "editorBracketMatch.border": "#81a1c100",
     "editorBracketHighlight.foreground1": "#cdcecf",
     "editorBracketHighlight.foreground2": "#b48ead",
     "editorBracketHighlight.foreground3": "#a3be8c",
@@ -366,14 +366,14 @@
       "name": "[Keyword] — The main color for Keyword",
       "scope": ["keyword, storage.type.class.js"],
       "settings": {
-        "foreground": "#9D79D6"
+        "foreground": "#b48ead"
       }
     },
     {
       "name": "[Meta] — The main color for Meta",
       "scope": "meta",
       "settings": {
-        "foreground": "#63CDCF"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -424,7 +424,7 @@
       "name": "[Storage] — The main color for Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#9D79D6"
+        "foreground": "#b48ead"
       }
     },
     {
@@ -513,7 +513,7 @@
       "name": "[INI] - Color for Keyword",
       "scope": ["source.ini keyword", "keyword.other.definition.ini"],
       "settings": {
-        "foreground": "#9D79D6"
+        "foreground": "#b48ead"
       }
     },
     {
@@ -534,7 +534,7 @@
       "name": "[CSS] - Color for Entity",
       "scope": ["source.css entity", "source.stylus entity"],
       "settings": {
-        "foreground": "#9D79D6"
+        "foreground": "#b48ead"
       }
     },
     {
@@ -603,7 +603,7 @@
       "name": "[CSS] - Color for important",
       "scope": ["keyword.other.important.css", "punctuation.definition.keyword.css"],
       "settings": {
-        "foreground": "#9D79D6"
+        "foreground": "#b48ead"
       }
     },
     {
@@ -720,7 +720,7 @@
       "name": "[HTML] - Color for Entity Other",
       "scope": "text.html.basic entity.other",
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -776,14 +776,14 @@
       "name": "[JAVASCRIPT] - Color for Storage Type Function",
       "scope": "source.js storage.type.function",
       "settings": {
-        "foreground": "#9D79D6"
+        "foreground": "#b48ead"
       }
     },
     {
       "name": "[JAVASCRIPT] - Color for Variable Language",
       "scope": "variable.language, entity.name.type.class.js",
       "settings": {
-        "foreground": "#9D79D6"
+        "foreground": "#b48ead"
       }
     },
     {
@@ -797,7 +797,7 @@
       "name": "[JAVASCRIPT] - Color for React Extends keyword",
       "scope": ["storage.type.extends.js", "storage.type.class.jsdoc"],
       "settings": {
-        "foreground": "#9D79D6"
+        "foreground": "#b48ead"
       }
     },
     {
@@ -859,7 +859,7 @@
         "keyword.control"
       ],
       "settings": {
-        "foreground": "#9D79D6"
+        "foreground": "#b48ead"
       }
     },
     {
@@ -968,7 +968,7 @@
       "name": "[JAVASCRIPT] - Parameters",
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#63CDCF"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -993,7 +993,7 @@
         "support.function.builtin.python"
       ],
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1007,7 +1007,7 @@
       "name": "[TYPESCRIPT] - Color for Keyword",
       "scope": "source.ts keyword",
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1039,7 +1039,7 @@
         "markup.heading.setext.2.markdown"
       ],
       "settings": {
-        "foreground": "#FAD000",
+        "foreground": "#81a1c1",
         "fontStyle": "bold"
       }
     },
@@ -1089,7 +1089,7 @@
       "name": "[MARKDOWN] - Color for Quote Punctuation",
       "scope": "beginning.punctuation.definition.quote.markdown",
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1106,7 +1106,7 @@
       "name": "[MARKDOWN] - Color for Separator",
       "scope": "meta.separator.markdown",
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1131,7 +1131,7 @@
         "markup.list.unnumbered.markdown"
       ],
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1156,7 +1156,7 @@
         "meta.link.reference.def.markdown markup.underline.link.markdown"
       ],
       "settings": {
-        "foreground": "#FAD000",
+        "foreground": "#81a1c1",
         "fontStyle": "underline"
       }
     },
@@ -1197,7 +1197,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1331,7 +1331,7 @@
       "name": "[YML] — KEYWORDS",
       "scope": ["entity.name.tag.yaml"],
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1398,7 +1398,7 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1494,7 +1494,7 @@
       "name": "[SQL] — Functions Used",
       "scope": ["support.function.mysqli.php", "source.sql support.function"],
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1532,14 +1532,14 @@
       "name": "[TOML] — Keywords",
       "scope": ["keyword.key.toml"],
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
       "name": "[DOCKER] — Keywords",
       "scope": ["keyword.other.special-method.dockerfile"],
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
@@ -1567,7 +1567,7 @@
       "name": "[ENV] — Variable",
       "scope": ["variable.other.env"],
       "settings": {
-        "foreground": "#FAD000"
+        "foreground": "#81a1c1"
       }
     },
     {
