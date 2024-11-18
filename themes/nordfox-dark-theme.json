@@ -227,8 +227,8 @@
     "sash.hoverBorder": "#415166",
 
     "scrollbar.shadow": "#29394e81",
-    "scrollbarSlider.background": "#29394e81",
-    "scrollbarSlider.hoverBackground": "#415166AA",
+    "scrollbarSlider.background": "#7e8188AA",
+    "scrollbarSlider.hoverBackground": "#7e8188",
     "scrollbarSlider.activeBackground": "#F6B079AA",
 
     "descriptionForeground": "#b48ead",
@@ -331,7 +331,7 @@
       "name": "[COMMENTS] — The main comments color",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#526176"
+        "foreground": "#60728a"
       }
     },
     {
